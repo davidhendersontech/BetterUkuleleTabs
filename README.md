@@ -34,7 +34,7 @@ scrollMe.className = ""
 Why Ukulele-tabs.com? It was so simple..
 
 
-Test it out! [David's Favorite Tab](https://www.ukulele-tabs.com/uke-songs/jake-shimabukuro/bohemian-rhapsody-uke-tab-34114.html)
-Built with love by [Rj](https://github.com/rjheim) and [David](https://github.com/notDavidHenderson)
+Test it out! [David's Favorite Tab](https://www.ukulele-tabs.com/uke-songs/jake-shimabukuro/bohemian-rhapsody-uke-tab-34114.html)       
+Built with ❤️ by [Rj](https://github.com/rjheim) and [David](https://github.com/notDavidHenderson)
 
 
